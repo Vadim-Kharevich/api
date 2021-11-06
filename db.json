@@ -2,14 +2,107 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Samsung Galaxy Z Flip3",
+      "producer": "Samsung",
+      "description": "Android, экран 6.7 AMOLED (1080x2640), Qualcomm Snapdragon 888, ОЗУ 8 ГБ, флэш-память 256 ГБ, камера 12 Мп, аккумулятор 3300 мАч, 1 SIM",
+      "price": 3040,
+      "image": "https://content2.onliner.by/catalog/device/header/fd11fec08b484cca14bea1d1b61ba47a.jpeg"
     },
     {
       "id": 2,
-      "title": "world"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "title": "HONOR 50",
+      "producer": "HONOR",
+      "description": "Android, экран 6.57 OLED (1080x2340), Qualcomm Snapdragon 778G, ОЗУ 8 ГБ, флэш-память 128 ГБ, камера 108 Мп, аккумулятор 4300 мАч, 2 SIM",
+      "price": 1399,
+      "image": "https://content2.onliner.by/catalog/device/header/fe938a7b32281eeb384db8c9cd75cc0b.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Xiaomi Redmi Note 9",
+      "producer": "Xiaomi",
+      "description": "Android, экран 6.53 IPS (1080x2340), Mediatek Helio G85, ОЗУ 3 ГБ, флэш-память 64 ГБ, карты памяти, камера 48 Мп, аккумулятор 5020 мАч, 2 SIM",
+      "price": 399,
+      "image": "https://content2.onliner.by/catalog/device/header/bf44a40073502e584eff878eb75fcc05.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Xiaomi 11 Lite 5G NE",
+      "producer": "Xiaomi",
+      "description": "Android, экран 6.55 AMOLED (1080x2400), Qualcomm Snapdragon 778G, ОЗУ 6 ГБ, флэш-память 128 ГБ, карты памяти, камера 64 Мп, аккумулятор 4250 мАч, 2 SIM",
+      "price": 1070,
+      "image": "https://content2.onliner.by/catalog/device/header/54bddbaf980e611741a4b0fbd476f1b4.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "POCO X3 Pro",
+      "producer": "POCO",
+      "description": "Android, экран 6.67 IPS (1080x2400), Qualcomm Snapdragon 860, ОЗУ 8 ГБ, флэш-память 256 ГБ, карты памяти, камера 48 Мп, аккумулятор 5160 мАч, 2 SIM",
+      "price": 750,
+      "image": "https://content2.onliner.by/catalog/device/header/9d2c6dfdfa99ab6fabcaa64afa400ddd.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Apple iPhone 11",
+      "producer": "Apple",
+      "description": "Apple iOS, экран 6.1 IPS (828x1792), Apple A13 Bionic, ОЗУ 4 ГБ, флэш-память 64 ГБ, камера 12 Мп, аккумулятор 3046 мАч, 1 SIM",
+      "price": 1730,
+      "image": "https://content2.onliner.by/catalog/device/header/e2189f90f9088975c553ec33431fc186.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Samsung Galaxy A52",
+      "producer": "Samsung",
+      "description": "Android, экран 6.5 AMOLED (1080x2400), Qualcomm Snapdragon 720G, ОЗУ 4 ГБ, флэш-память 128 ГБ, карты памяти, камера 64 Мп, аккумулятор 4500 мАч, 2 SIM",
+      "price": 890,
+      "image": "https://content2.onliner.by/catalog/device/header/0bde71a90a551c172c6a9e290d1cdbed.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "Xiaomi Mi 11 Lite",
+      "producer": "Xiaomi",
+      "description": "Android, экран 6.55 AMOLED (1080x2400), Qualcomm Snapdragon 732G, ОЗУ 6 ГБ, флэш-память 128 ГБ, карты памяти, камера 64 Мп, аккумулятор 4250 мАч, 2 SIM",
+      "price": 810,
+      "image": "https://content2.onliner.by/catalog/device/header/d87d8b1f92ed73f9b04b5f9596e515b5.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "Xiaomi Redmi Note 10 Pro",
+      "producer": "Xiaomi",
+      "description": "Android, экран 6.67 AMOLED (1080x2400), Qualcomm Snapdragon 732G, ОЗУ 8 ГБ, флэш-память 128 ГБ, карты памяти, камера 108 Мп, аккумулятор 5020 мАч, 2 SIM",
+      "price": 920,
+      "image": "https://content2.onliner.by/catalog/device/header/050a6f0f727e91c7d6fb306dfce40a25.jpeg"
+    },
+    {
+      "id": 10,
+      "title": "Apple iPhone 13",
+      "producer": "Apple",
+      "description": "Apple iOS, экран 6.1 OLED (1170x2532), Apple A15 Bionic, ОЗУ 4 ГБ, флэш-память 128 ГБ, камера 12 Мп, 1 SIM",
+      "price": 2740,
+      "image": "https://content2.onliner.by/catalog/device/header/b9fefc8c8f96dbc21492792f3a1a502d.jpeg"
+    },
+    {
+      "id": 11,
+      "title": "Xiaomi Redmi 9T",
+      "producer": "Xiaomi",
+      "description": "Android, экран 6.53" IPS (1080x2340), Qualcomm Snapdragon 662, ОЗУ 4 ГБ, флэш-память 64 ГБ, карты памяти, камера 48 Мп, аккумулятор 6000 мАч, 2 SIM",
+      "price": 465,
+      "image": "https://content2.onliner.by/catalog/device/header/2af449ee97fc865de077c8dfe09ea68c.jpeg"
+    },
+    {
+      "id": 12,
+      "title": "Apple iPhone 12",
+      "producer": "Apple",
+      "description": "Apple iOS, экран 6.1 OLED (1170x2532), Apple A14 Bionic, ОЗУ 4 ГБ, флэш-память 64 ГБ, камера 12 Мп, аккумулятор 2815 мАч, 1 SIM",
+      "price": 2100,
+      "image": "https://content2.onliner.by/catalog/device/header/bf14a99b6b00fa25711a3e8e7a87d23a.jpeg"
+    },
+    {
+      "id": 13,
+      "title": "Xiaomi Redmi Note 8",
+      "producer": "Xiaomi",
+      "description": "Android, экран 6.3 IPS (1080x2340), Mediatek Helio G85, ОЗУ 4 ГБ, флэш-память 64 ГБ, карты памяти, камера 48 Мп, аккумулятор 4000 мАч, 2 SIM",
+      "price": 449,
+      "image": "https://content2.onliner.by/catalog/device/header/233fa2746ff571f7ea31f9bae6a6a2ec.jpeg"
+    },
+  ]
 }
